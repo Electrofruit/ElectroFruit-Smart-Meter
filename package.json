@@ -1,0 +1,17 @@
+{
+  "name": "smartmeter",
+  "version": "1.0.0",
+  "description": "Smart Meter that measures produced and consumed energy and rewards and charges tokens accordingly via blockchain (Ethereum).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilmi Ali",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.3",
+    "ethereumjs-util": "^4.4.1",
+    "request": "^2.83.0",
+    "web3": "^0.19.1"
+  }
+}
